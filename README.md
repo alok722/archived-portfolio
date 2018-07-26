@@ -3,4 +3,4 @@ Its a website made using template. I have applied the knowledge of HTML,CSS,JS &
 
 Link to view this WEB Page
 
-https://alok722.github.io/online_resume/
+https://alok722.github.io/resume722/
