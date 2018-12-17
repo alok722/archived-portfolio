@@ -1,6 +1,8 @@
-# online_resume
-I have applied the knowledge of HTML,CSS,JS & Bootstrap.
+# Online_resume
+Edited from a template of w3layout:
 
-Link to view this WEB Page
+Tech Stack: HTML, CSS, JS, Bootstrap
+
+Link to view this page:
 
 https://alok722.github.io/resume722/
