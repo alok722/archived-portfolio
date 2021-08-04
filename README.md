@@ -1,4 +1,4 @@
-<h1 align="center">welcome to portfolio [obsolete] 👋</h1>
+<h1 align="center">welcome to my old portfolio 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/alok722" target="_blank">
@@ -9,9 +9,9 @@
   </a>
 </p>
 
-> My `[obsolete]` obsolete.
+> My `[old]` obsolete.
 
-## 🏡 [Homepage](https://alok722.github.io/resume722/)
+## 🏡 [Homepage](https://alok722.github.io/archived-portfolio/)
 
 ## 🧾 usage
 
