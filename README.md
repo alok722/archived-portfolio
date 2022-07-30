@@ -9,14 +9,14 @@
   </a>
 </p>
 
-> My `[old]` obsolete.
+> My `[old]` obsolete v1 portfolio.
 
 ## 🏡 [Homepage](https://alok722.github.io/archived-portfolio/)
 
 ## 🧾 usage
 
-```js
-git clone https://github.com/alok722/-obsolete-portfolio.git
+```sh
+git clone https://github.com/alok722/archived-portfolio.git
 open `index.html` in any browser
 ```
 
